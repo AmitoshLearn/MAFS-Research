@@ -271,7 +271,7 @@ def main():
 
     # ── 4. Save CSV ──
     section("4 · Saving Results to CSV")
-    with open("mafs_results.csv", "w", newline="") as f:
+    with open("bfs_mafs_results.csv", "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["sweep", "param", "traditional", "mafs", "speedup_pct", "speedup_net_pct", "theoretical_pct"])
         for d in sweep_na:
