@@ -1,4 +1,4 @@
-**MAFS gross is already competitive with A* at ALL scales:** 
+**MAFS gross is already competitive with (A*) at ALL scales:** 
 
 -> R1: MAFS gross=34 vs A*=35. R2: 252 vs 796. R3: 483 vs 2700. The exploration engine works perfectly.
 
